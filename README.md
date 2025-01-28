@@ -9,5 +9,3 @@ Classes src/Player.java and src/Robot.java represent the player and AI respectiv
 src/Card.java represents a Card object, with attributes for name, suit, and other values used in processing.
 
 src/Manager.java creates player and AI objects, then creates a deck of Cards to operate the game with. It initializes and shuffles the deck, manages the pot values, exchanges Cards from players during the exchange round, and determines who wins the hands.
-
-hello

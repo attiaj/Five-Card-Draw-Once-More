@@ -1,4 +1,4 @@
-# Five-Card-Draw-Once-More
+# Five-Card-Draw-Poker-Simulator
 
 This is a program to simulate playing five card draw poker against an AI.
 

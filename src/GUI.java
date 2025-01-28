@@ -32,8 +32,6 @@ package src;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
-
-
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.scene.Scene;
@@ -44,6 +42,7 @@ import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
+
 
 public class GUI extends Application {
 	
